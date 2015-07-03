@@ -1,0 +1,18 @@
+{
+  "name": "jquery-legacy",
+  "version": "1.11.2",
+  "description": "Provides an npm dependency to jQuery 1.11",
+  "main": "node_modules/dist/jquery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ambitechuk/jquery-legacy.git"
+  },
+  "author": "AmbitechUK",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "1.11"
+  }
+}
