@@ -2,7 +2,7 @@
   "name": "jquery-legacy",
   "version": "1.12.0",
   "description": "Provides an npm dependency to jQuery 1.12",
-  "main": "node_modules/dist/jquery.js",
+  "main": "node_modules/jquery/dist/jquery.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
